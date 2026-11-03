@@ -25,6 +25,9 @@ jobs:
         with:
           tool: mdbook
 
+      - name: Install mdbook-mermaid
+        run: cargo install mdbook-mermaid --locked --version 0.17.1
+
       - name: Build book
         run: mdbook build --dest-dir ./dist
 

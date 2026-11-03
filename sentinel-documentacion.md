@@ -2,7 +2,7 @@
 
 Plataforma de simulación y detección de phishing para pymes colombianas.
 
-**Autor:** Jose Miguel Franco Zabala — ID 100097477 · **Base:** rama `main`, commit `d4c62b5` · **Versión:** 1.0
+**Autor:** Jose Miguel Franco Zabala **Base:** rama `main`, commit `d4c62b5` · **Versión:** 1.0
 
 - [Parte I · Arquitectura](#parte-i--arquitectura)
 - [Parte II · Historias de usuario y criterios de aceptación](#parte-ii--historias-de-usuario-y-criterios-de-aceptación)
